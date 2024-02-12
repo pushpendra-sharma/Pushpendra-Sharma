@@ -2,9 +2,9 @@
 <h1 align="center">Hi there 👋 I'm Pushpendra Sharma</h1>
 <h3 align="center">I am a Software Engineer.</h3>
 
-- 🔭 I’m currently working on Frontend Development.
+- 🔭 I’m currently working as a software engineer.
 - 🌱 I’m currently learning TypeScript, Next.js and DSA.
-- 💬 Ask me about JavaScript, React, Frontend Development.
+- 💬 Ask me about JavaScript, NodeJS, ReactJS and software engineering.
 
 
 <h3 align="left">Connect with me:</h3>
